@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Ủng Hộ</string>
+    <string name="service_desc">Cho phép ứng dụng tự động nhấp vào màn hình theo tọa độ đã cài đặt.</string>
+</resources>
